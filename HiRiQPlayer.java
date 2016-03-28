@@ -113,6 +113,9 @@ public class HiRiQPlayer {
 		}
 	}
 	class HiRiQ {
+	/**
+	 * Class written by Prof. Claude Crepeau
+	 */
 	//int is used to reduce storage to a minimum...
 	  public int config;
 	  public byte weight;
